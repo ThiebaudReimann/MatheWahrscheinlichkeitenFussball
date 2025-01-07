@@ -195,14 +195,4 @@ class Gewichtung {
         break;
     }
   }
-
-  // Methode zur Ausgabe der Gewichtung
-  void printGewichtung() {
-    print('Position: $position');
-    print('AngriffsStärke: $angriffsStaerke');
-    print('AbwehrStärke: $abwaehrStaerke');
-    print('PassSicherheit: $passSicherheit');
-    print('ParrierSicherheit: $parrierSicherheit');
-    print('Pace: $pace');
-  }
 }
