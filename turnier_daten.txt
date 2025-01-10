@@ -1,0 +1,697 @@
+Gruppenphase Ergebnisse:
+Gruppe A:
+Deutschland (Berlin, DE): 88 Chemie
+  Spieler: Leroy Sané, Position: Position.LS, Alter: 33
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 51, Passsicherheit: 85, Parriersicherheit: 0, Pace: 65
+  Spieler: Eden Hazard, Position: Position.LM, Alter: 18
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 60, Passsicherheit: 82, Parriersicherheit: 0, Pace: 65
+  Spieler: Antonio Rüdiger, Position: Position.RM, Alter: 24
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 81, Passsicherheit: 83, Parriersicherheit: 0, Pace: 89
+  Spieler: Serge Gnabry, Position: Position.ZOM, Alter: 30
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 50, Passsicherheit: 75, Parriersicherheit: 0, Pace: 86
+  Spieler: Thibaut Courtois, Position: Position.TW, Alter: 36
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 82, Passsicherheit: 72, Parriersicherheit: 61, Pace: 85
+  Spieler: Zlatan Ibrahimović, Position: Position.LS, Alter: 35
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 58, Passsicherheit: 63, Parriersicherheit: 0, Pace: 82
+  Spieler: Memphis Depay, Position: Position.LV, Alter: 22
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 50, Passsicherheit: 83, Parriersicherheit: 0, Pace: 86
+  Spieler: Timo Werner, Position: Position.ZOM, Alter: 25
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 56, Passsicherheit: 70, Parriersicherheit: 0, Pace: 85
+  Spieler: Kevin De Bruyne, Position: Position.ZOM, Alter: 24
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 53, Passsicherheit: 60, Parriersicherheit: 0, Pace: 92
+  Spieler: Timo Werner, Position: Position.RM, Alter: 18
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 79, Passsicherheit: 83, Parriersicherheit: 0, Pace: 89
+  Spieler: Leroy Sané, Position: Position.ZDM, Alter: 27
+    Power: Angriffsstaerke: 93, Abwehrstaerke: 68, Passsicherheit: 67, Parriersicherheit: 0, Pace: 82
+  Spieler: Robert Lewandowski, Position: Position.RV, Alter: 36
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 55, Passsicherheit: 68, Parriersicherheit: 0, Pace: 83
+  Spieler: Kevin De Bruyne, Position: Position.RV, Alter: 27
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 71, Passsicherheit: 87, Parriersicherheit: 0, Pace: 82
+  Spieler: Timo Werner, Position: Position.LS, Alter: 29
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 82, Passsicherheit: 76, Parriersicherheit: 0, Pace: 61
+  Spieler: Zlatan Ibrahimović, Position: Position.ZM, Alter: 18
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 59, Passsicherheit: 67, Parriersicherheit: 0, Pace: 79
+  Spieler: Serge Gnabry, Position: Position.LS, Alter: 26
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 82, Passsicherheit: 56, Parriersicherheit: 0, Pace: 90
+  Spieler: Leroy Sané, Position: Position.RV, Alter: 29
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 52, Passsicherheit: 81, Parriersicherheit: 0, Pace: 78
+  Spieler: Robert Lewandowski, Position: Position.RM, Alter: 32
+    Power: Angriffsstaerke: 93, Abwehrstaerke: 69, Passsicherheit: 55, Parriersicherheit: 0, Pace: 80
+  Spieler: Neymar, Position: Position.ZDM, Alter: 35
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 72, Passsicherheit: 80, Parriersicherheit: 0, Pace: 68
+  Spieler: Thomas Müller, Position: Position.IV, Alter: 26
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 77, Passsicherheit: 77, Parriersicherheit: 0, Pace: 94
+  Spieler: Manuel Neuer, Position: Position.ZOM, Alter: 34
+    Power: Angriffsstaerke: 86, Abwehrstaerke: 73, Passsicherheit: 62, Parriersicherheit: 0, Pace: 65
+  Spieler: Niklas Süle, Position: Position.LV, Alter: 28
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 82, Passsicherheit: 76, Parriersicherheit: 0, Pace: 94
+  Spieler: Kylian Mbappé, Position: Position.RM, Alter: 31
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 77, Passsicherheit: 81, Parriersicherheit: 0, Pace: 64
+
+Frankreich (Paris, FR): 52 Chemie
+  Spieler: Neymar, Position: Position.LS, Alter: 21
+    Power: Angriffsstaerke: 92, Abwehrstaerke: 78, Passsicherheit: 90, Parriersicherheit: 0, Pace: 65
+  Spieler: Harry Kane, Position: Position.LS, Alter: 32
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 80, Passsicherheit: 67, Parriersicherheit: 0, Pace: 83
+  Spieler: Vinícius Júnior, Position: Position.RM, Alter: 23
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 73, Passsicherheit: 78, Parriersicherheit: 0, Pace: 72
+  Spieler: Neymar, Position: Position.RM, Alter: 24
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 73, Passsicherheit: 85, Parriersicherheit: 0, Pace: 71
+  Spieler: Harry Kane, Position: Position.LM, Alter: 35
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 60, Passsicherheit: 69, Parriersicherheit: 0, Pace: 94
+  Spieler: Vinícius Júnior, Position: Position.RS, Alter: 30
+    Power: Angriffsstaerke: 92, Abwehrstaerke: 63, Passsicherheit: 86, Parriersicherheit: 0, Pace: 73
+  Spieler: Jamal Musiala, Position: Position.LS, Alter: 29
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 78, Passsicherheit: 58, Parriersicherheit: 0, Pace: 73
+  Spieler: Lionel Messi, Position: Position.ZDM, Alter: 24
+    Power: Angriffsstaerke: 64, Abwehrstaerke: 68, Passsicherheit: 83, Parriersicherheit: 0, Pace: 82
+  Spieler: Virgil van Dijk, Position: Position.RS, Alter: 29
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 85, Passsicherheit: 78, Parriersicherheit: 0, Pace: 93
+  Spieler: Eden Hazard, Position: Position.RM, Alter: 35
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 69, Passsicherheit: 61, Parriersicherheit: 0, Pace: 93
+  Spieler: Serge Gnabry, Position: Position.ST, Alter: 23
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 67, Passsicherheit: 59, Parriersicherheit: 0, Pace: 63
+  Spieler: Luka Modrić, Position: Position.LS, Alter: 23
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 55, Passsicherheit: 84, Parriersicherheit: 0, Pace: 65
+  Spieler: Niklas Süle, Position: Position.RM, Alter: 33
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 81, Passsicherheit: 65, Parriersicherheit: 0, Pace: 93
+  Spieler: Antonio Rüdiger, Position: Position.IV, Alter: 18
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 70, Passsicherheit: 68, Parriersicherheit: 0, Pace: 76
+  Spieler: Zlatan Ibrahimović, Position: Position.ZDM, Alter: 23
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 73, Passsicherheit: 76, Parriersicherheit: 0, Pace: 91
+  Spieler: Gianluigi Donnarumma, Position: Position.RM, Alter: 30
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 50, Passsicherheit: 73, Parriersicherheit: 0, Pace: 91
+  Spieler: Joshua Kimmich, Position: Position.RS, Alter: 27
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 77, Passsicherheit: 87, Parriersicherheit: 0, Pace: 94
+  Spieler: Kylian Mbappé, Position: Position.TW, Alter: 31
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 85, Passsicherheit: 55, Parriersicherheit: 89, Pace: 61
+  Spieler: Zlatan Ibrahimović, Position: Position.LV, Alter: 32
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 68, Passsicherheit: 68, Parriersicherheit: 0, Pace: 62
+  Spieler: Harry Kane, Position: Position.TW, Alter: 30
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 82, Passsicherheit: 56, Parriersicherheit: 79, Pace: 61
+  Spieler: Ilkay Gündogan, Position: Position.ZM, Alter: 26
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 72, Passsicherheit: 68, Parriersicherheit: 0, Pace: 78
+
+Deutschland (Berlin, DE): 60 Chemie
+  Spieler: Niklas Süle, Position: Position.ST, Alter: 26
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 81, Passsicherheit: 77, Parriersicherheit: 0, Pace: 75
+  Spieler: Vinícius Júnior, Position: Position.RV, Alter: 21
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 85, Passsicherheit: 70, Parriersicherheit: 0, Pace: 69
+  Spieler: Manuel Neuer, Position: Position.RS, Alter: 23
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 76, Passsicherheit: 81, Parriersicherheit: 0, Pace: 87
+  Spieler: Leroy Sané, Position: Position.RS, Alter: 33
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 54, Passsicherheit: 65, Parriersicherheit: 0, Pace: 93
+  Spieler: Lionel Messi, Position: Position.LM, Alter: 18
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 66, Passsicherheit: 63, Parriersicherheit: 0, Pace: 95
+  Spieler: Memphis Depay, Position: Position.ZOM, Alter: 19
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 56, Passsicherheit: 62, Parriersicherheit: 0, Pace: 89
+  Spieler: Ilkay Gündogan, Position: Position.LS, Alter: 18
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 64, Passsicherheit: 80, Parriersicherheit: 0, Pace: 82
+  Spieler: Neymar, Position: Position.LM, Alter: 25
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 84, Passsicherheit: 86, Parriersicherheit: 0, Pace: 67
+  Spieler: Antonio Rüdiger, Position: Position.ZDM, Alter: 32
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 81, Passsicherheit: 90, Parriersicherheit: 0, Pace: 95
+  Spieler: Romelu Lukaku, Position: Position.IV, Alter: 25
+    Power: Angriffsstaerke: 86, Abwehrstaerke: 72, Passsicherheit: 67, Parriersicherheit: 0, Pace: 62
+  Spieler: Romelu Lukaku, Position: Position.RM, Alter: 28
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 63, Passsicherheit: 87, Parriersicherheit: 0, Pace: 87
+  Spieler: Leon Goretzka, Position: Position.LM, Alter: 29
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 66, Passsicherheit: 80, Parriersicherheit: 0, Pace: 86
+  Spieler: Leon Goretzka, Position: Position.TW, Alter: 25
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 54, Passsicherheit: 66, Parriersicherheit: 71, Pace: 75
+  Spieler: Luka Modrić, Position: Position.ZDM, Alter: 31
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 57, Passsicherheit: 89, Parriersicherheit: 0, Pace: 86
+  Spieler: Antonio Rüdiger, Position: Position.LM, Alter: 21
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 79, Passsicherheit: 87, Parriersicherheit: 0, Pace: 63
+  Spieler: Robert Lewandowski, Position: Position.LV, Alter: 36
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 75, Passsicherheit: 75, Parriersicherheit: 0, Pace: 63
+  Spieler: Robert Lewandowski, Position: Position.LM, Alter: 36
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 54, Passsicherheit: 70, Parriersicherheit: 0, Pace: 73
+  Spieler: Leroy Sané, Position: Position.RM, Alter: 22
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 85, Passsicherheit: 68, Parriersicherheit: 0, Pace: 60
+  Spieler: Harry Kane, Position: Position.ST, Alter: 24
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 62, Passsicherheit: 73, Parriersicherheit: 0, Pace: 84
+
+England (London, UK): 90 Chemie
+  Spieler: Thibaut Courtois, Position: Position.ZOM, Alter: 25
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 62, Passsicherheit: 74, Parriersicherheit: 0, Pace: 86
+  Spieler: Leroy Sané, Position: Position.RV, Alter: 20
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 63, Passsicherheit: 83, Parriersicherheit: 0, Pace: 86
+  Spieler: Eden Hazard, Position: Position.ZM, Alter: 22
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 71, Passsicherheit: 59, Parriersicherheit: 0, Pace: 92
+  Spieler: Zlatan Ibrahimović, Position: Position.ZM, Alter: 21
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 73, Passsicherheit: 58, Parriersicherheit: 0, Pace: 81
+  Spieler: Eden Hazard, Position: Position.ST, Alter: 22
+    Power: Angriffsstaerke: 92, Abwehrstaerke: 77, Passsicherheit: 89, Parriersicherheit: 0, Pace: 75
+  Spieler: Virgil van Dijk, Position: Position.ZM, Alter: 22
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 59, Passsicherheit: 63, Parriersicherheit: 0, Pace: 81
+  Spieler: Serge Gnabry, Position: Position.ST, Alter: 23
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 68, Passsicherheit: 79, Parriersicherheit: 0, Pace: 73
+  Spieler: Memphis Depay, Position: Position.ZDM, Alter: 22
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 81, Passsicherheit: 77, Parriersicherheit: 0, Pace: 74
+  Spieler: Lionel Messi, Position: Position.IV, Alter: 31
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 85, Passsicherheit: 56, Parriersicherheit: 0, Pace: 75
+  Spieler: Robert Lewandowski, Position: Position.RM, Alter: 27
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 81, Passsicherheit: 73, Parriersicherheit: 0, Pace: 62
+  Spieler: Antonio Rüdiger, Position: Position.LS, Alter: 35
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 75, Passsicherheit: 76, Parriersicherheit: 0, Pace: 85
+  Spieler: Lionel Messi, Position: Position.TW, Alter: 23
+    Power: Angriffsstaerke: 73, Abwehrstaerke: 50, Passsicherheit: 73, Parriersicherheit: 17, Pace: 70
+  Spieler: Timo Werner, Position: Position.LV, Alter: 30
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 55, Passsicherheit: 84, Parriersicherheit: 0, Pace: 89
+  Spieler: Serge Gnabry, Position: Position.IV, Alter: 28
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 85, Passsicherheit: 87, Parriersicherheit: 0, Pace: 88
+  Spieler: Memphis Depay, Position: Position.ZDM, Alter: 28
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 73, Passsicherheit: 84, Parriersicherheit: 0, Pace: 75
+  Spieler: Joshua Kimmich, Position: Position.LS, Alter: 32
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 59, Passsicherheit: 62, Parriersicherheit: 0, Pace: 76
+  Spieler: Leon Goretzka, Position: Position.ZOM, Alter: 23
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 79, Passsicherheit: 68, Parriersicherheit: 0, Pace: 72
+  Spieler: Niklas Süle, Position: Position.RS, Alter: 22
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 70, Passsicherheit: 88, Parriersicherheit: 0, Pace: 86
+
+Gruppe B:
+Spanien (Madrid, ES): 70 Chemie
+  Spieler: Thomas Müller, Position: Position.LM, Alter: 32
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 62, Passsicherheit: 74, Parriersicherheit: 0, Pace: 75
+  Spieler: Manuel Neuer, Position: Position.ST, Alter: 25
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 59, Passsicherheit: 60, Parriersicherheit: 0, Pace: 65
+  Spieler: Robert Lewandowski, Position: Position.LV, Alter: 33
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 56, Passsicherheit: 74, Parriersicherheit: 0, Pace: 60
+  Spieler: Niklas Süle, Position: Position.ST, Alter: 18
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 64, Passsicherheit: 85, Parriersicherheit: 0, Pace: 85
+  Spieler: Romelu Lukaku, Position: Position.RV, Alter: 26
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 60, Passsicherheit: 70, Parriersicherheit: 0, Pace: 80
+  Spieler: Thomas Müller, Position: Position.ST, Alter: 31
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 59, Passsicherheit: 61, Parriersicherheit: 0, Pace: 65
+  Spieler: Luka Modrić, Position: Position.ST, Alter: 23
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 75, Passsicherheit: 73, Parriersicherheit: 0, Pace: 65
+  Spieler: Vinícius Júnior, Position: Position.RS, Alter: 29
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 66, Passsicherheit: 68, Parriersicherheit: 0, Pace: 83
+  Spieler: Thibaut Courtois, Position: Position.IV, Alter: 34
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 74, Passsicherheit: 72, Parriersicherheit: 0, Pace: 68
+  Spieler: Serge Gnabry, Position: Position.ZM, Alter: 21
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 83, Passsicherheit: 87, Parriersicherheit: 0, Pace: 95
+  Spieler: Antonio Rüdiger, Position: Position.ZDM, Alter: 30
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 83, Passsicherheit: 72, Parriersicherheit: 0, Pace: 79
+  Spieler: Leon Goretzka, Position: Position.ST, Alter: 20
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 70, Passsicherheit: 83, Parriersicherheit: 0, Pace: 91
+  Spieler: Luka Modrić, Position: Position.ZOM, Alter: 33
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 80, Passsicherheit: 73, Parriersicherheit: 0, Pace: 71
+  Spieler: Thomas Müller, Position: Position.ZOM, Alter: 25
+    Power: Angriffsstaerke: 86, Abwehrstaerke: 63, Passsicherheit: 61, Parriersicherheit: 0, Pace: 65
+  Spieler: Leroy Sané, Position: Position.RS, Alter: 30
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 55, Passsicherheit: 73, Parriersicherheit: 0, Pace: 74
+  Spieler: Vinícius Júnior, Position: Position.ZM, Alter: 33
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 53, Passsicherheit: 68, Parriersicherheit: 0, Pace: 73
+  Spieler: Thomas Müller, Position: Position.IV, Alter: 24
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 50, Passsicherheit: 64, Parriersicherheit: 0, Pace: 66
+  Spieler: Cristiano Ronaldo, Position: Position.TW, Alter: 32
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 61, Passsicherheit: 73, Parriersicherheit: 34, Pace: 60
+  Spieler: Thomas Müller, Position: Position.ZDM, Alter: 22
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 78, Passsicherheit: 84, Parriersicherheit: 0, Pace: 92
+  Spieler: Ilkay Gündogan, Position: Position.IV, Alter: 21
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 83, Passsicherheit: 84, Parriersicherheit: 0, Pace: 63
+
+Polen (Warsaw, PL): 54 Chemie
+  Spieler: Memphis Depay, Position: Position.RM, Alter: 22
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 56, Passsicherheit: 62, Parriersicherheit: 0, Pace: 92
+  Spieler: Virgil van Dijk, Position: Position.TW, Alter: 18
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 56, Passsicherheit: 71, Parriersicherheit: 3, Pace: 93
+  Spieler: Lionel Messi, Position: Position.TW, Alter: 35
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 64, Passsicherheit: 56, Parriersicherheit: 65, Pace: 84
+  Spieler: Kai Havertz, Position: Position.ZOM, Alter: 31
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 70, Passsicherheit: 66, Parriersicherheit: 0, Pace: 64
+  Spieler: Kylian Mbappé, Position: Position.ZOM, Alter: 35
+    Power: Angriffsstaerke: 73, Abwehrstaerke: 55, Passsicherheit: 68, Parriersicherheit: 0, Pace: 69
+  Spieler: Luka Modrić, Position: Position.RS, Alter: 19
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 58, Passsicherheit: 69, Parriersicherheit: 0, Pace: 62
+  Spieler: Zlatan Ibrahimović, Position: Position.ZDM, Alter: 26
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 85, Passsicherheit: 83, Parriersicherheit: 0, Pace: 87
+  Spieler: Leroy Sané, Position: Position.LM, Alter: 19
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 52, Passsicherheit: 68, Parriersicherheit: 0, Pace: 90
+  Spieler: Virgil van Dijk, Position: Position.LM, Alter: 33
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 71, Passsicherheit: 84, Parriersicherheit: 0, Pace: 70
+  Spieler: Harry Kane, Position: Position.ZDM, Alter: 36
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 52, Passsicherheit: 57, Parriersicherheit: 0, Pace: 80
+  Spieler: Ilkay Gündogan, Position: Position.IV, Alter: 33
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 59, Passsicherheit: 68, Parriersicherheit: 0, Pace: 73
+  Spieler: Thomas Müller, Position: Position.ST, Alter: 31
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 54, Passsicherheit: 78, Parriersicherheit: 0, Pace: 95
+  Spieler: Robert Lewandowski, Position: Position.ZDM, Alter: 20
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 61, Passsicherheit: 81, Parriersicherheit: 0, Pace: 66
+  Spieler: Manuel Neuer, Position: Position.ZOM, Alter: 24
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 67, Passsicherheit: 61, Parriersicherheit: 0, Pace: 83
+  Spieler: Romelu Lukaku, Position: Position.ZOM, Alter: 27
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 84, Passsicherheit: 90, Parriersicherheit: 0, Pace: 62
+  Spieler: Niklas Süle, Position: Position.ZM, Alter: 25
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 79, Passsicherheit: 73, Parriersicherheit: 0, Pace: 89
+  Spieler: Kylian Mbappé, Position: Position.TW, Alter: 23
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 81, Passsicherheit: 88, Parriersicherheit: 25, Pace: 70
+  Spieler: Vinícius Júnior, Position: Position.LV, Alter: 22
+    Power: Angriffsstaerke: 70, Abwehrstaerke: 79, Passsicherheit: 69, Parriersicherheit: 0, Pace: 67
+  Spieler: Thibaut Courtois, Position: Position.RS, Alter: 29
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 64, Passsicherheit: 61, Parriersicherheit: 0, Pace: 81
+
+Portugal (Lisbon, PT): 88 Chemie
+  Spieler: Eden Hazard, Position: Position.LV, Alter: 19
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 71, Passsicherheit: 59, Parriersicherheit: 0, Pace: 69
+  Spieler: Robert Lewandowski, Position: Position.RV, Alter: 29
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 68, Passsicherheit: 66, Parriersicherheit: 0, Pace: 65
+  Spieler: Vinícius Júnior, Position: Position.LS, Alter: 30
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 85, Passsicherheit: 78, Parriersicherheit: 0, Pace: 67
+  Spieler: Kai Havertz, Position: Position.RS, Alter: 31
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 60, Passsicherheit: 58, Parriersicherheit: 0, Pace: 65
+  Spieler: Neymar, Position: Position.RM, Alter: 24
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 78, Passsicherheit: 63, Parriersicherheit: 0, Pace: 61
+  Spieler: Robert Lewandowski, Position: Position.ST, Alter: 26
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 83, Passsicherheit: 73, Parriersicherheit: 0, Pace: 94
+  Spieler: Thibaut Courtois, Position: Position.ZM, Alter: 19
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 51, Passsicherheit: 85, Parriersicherheit: 0, Pace: 71
+  Spieler: Luka Modrić, Position: Position.IV, Alter: 25
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 50, Passsicherheit: 89, Parriersicherheit: 0, Pace: 61
+  Spieler: Cristiano Ronaldo, Position: Position.RV, Alter: 35
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 66, Passsicherheit: 74, Parriersicherheit: 0, Pace: 80
+  Spieler: Serge Gnabry, Position: Position.RV, Alter: 36
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 52, Passsicherheit: 82, Parriersicherheit: 0, Pace: 67
+  Spieler: Virgil van Dijk, Position: Position.ZM, Alter: 26
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 71, Passsicherheit: 81, Parriersicherheit: 0, Pace: 92
+  Spieler: Romelu Lukaku, Position: Position.RS, Alter: 28
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 50, Passsicherheit: 81, Parriersicherheit: 0, Pace: 77
+  Spieler: Memphis Depay, Position: Position.RS, Alter: 34
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 51, Passsicherheit: 59, Parriersicherheit: 0, Pace: 68
+  Spieler: Thibaut Courtois, Position: Position.RS, Alter: 22
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 85, Passsicherheit: 82, Parriersicherheit: 0, Pace: 91
+  Spieler: Virgil van Dijk, Position: Position.ST, Alter: 18
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 66, Passsicherheit: 60, Parriersicherheit: 0, Pace: 73
+  Spieler: Lionel Messi, Position: Position.IV, Alter: 24
+    Power: Angriffsstaerke: 70, Abwehrstaerke: 54, Passsicherheit: 70, Parriersicherheit: 0, Pace: 94
+  Spieler: Ilkay Gündogan, Position: Position.ZOM, Alter: 22
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 54, Passsicherheit: 72, Parriersicherheit: 0, Pace: 86
+  Spieler: Memphis Depay, Position: Position.LM, Alter: 18
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 83, Passsicherheit: 76, Parriersicherheit: 0, Pace: 66
+  Spieler: Ilkay Gündogan, Position: Position.ZDM, Alter: 34
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 59, Passsicherheit: 58, Parriersicherheit: 0, Pace: 61
+  Spieler: Manuel Neuer, Position: Position.RV, Alter: 19
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 70, Passsicherheit: 66, Parriersicherheit: 0, Pace: 72
+  Spieler: Timo Werner, Position: Position.LM, Alter: 19
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 85, Passsicherheit: 77, Parriersicherheit: 0, Pace: 87
+
+Dänemark (Copenhagen, DK): 86 Chemie
+  Spieler: Joshua Kimmich, Position: Position.IV, Alter: 30
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 73, Passsicherheit: 63, Parriersicherheit: 0, Pace: 78
+  Spieler: Neymar, Position: Position.RV, Alter: 24
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 60, Passsicherheit: 75, Parriersicherheit: 0, Pace: 92
+  Spieler: Eden Hazard, Position: Position.ZM, Alter: 25
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 60, Passsicherheit: 71, Parriersicherheit: 0, Pace: 77
+  Spieler: Vinícius Júnior, Position: Position.RM, Alter: 24
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 61, Passsicherheit: 79, Parriersicherheit: 0, Pace: 88
+  Spieler: Neymar, Position: Position.LS, Alter: 33
+    Power: Angriffsstaerke: 73, Abwehrstaerke: 55, Passsicherheit: 67, Parriersicherheit: 0, Pace: 89
+  Spieler: Antonio Rüdiger, Position: Position.RV, Alter: 34
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 53, Passsicherheit: 61, Parriersicherheit: 0, Pace: 70
+  Spieler: Serge Gnabry, Position: Position.RV, Alter: 27
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 80, Passsicherheit: 76, Parriersicherheit: 0, Pace: 75
+  Spieler: Gianluigi Donnarumma, Position: Position.IV, Alter: 27
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 85, Passsicherheit: 81, Parriersicherheit: 0, Pace: 70
+  Spieler: Virgil van Dijk, Position: Position.ZDM, Alter: 28
+    Power: Angriffsstaerke: 92, Abwehrstaerke: 79, Passsicherheit: 70, Parriersicherheit: 0, Pace: 60
+  Spieler: Gianluigi Donnarumma, Position: Position.ZDM, Alter: 25
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 66, Passsicherheit: 83, Parriersicherheit: 0, Pace: 74
+  Spieler: Harry Kane, Position: Position.ZOM, Alter: 36
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 84, Passsicherheit: 80, Parriersicherheit: 0, Pace: 70
+  Spieler: Romelu Lukaku, Position: Position.IV, Alter: 33
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 58, Passsicherheit: 81, Parriersicherheit: 0, Pace: 70
+  Spieler: Robert Lewandowski, Position: Position.ST, Alter: 34
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 57, Passsicherheit: 59, Parriersicherheit: 0, Pace: 71
+  Spieler: Vinícius Júnior, Position: Position.ZOM, Alter: 32
+    Power: Angriffsstaerke: 93, Abwehrstaerke: 50, Passsicherheit: 71, Parriersicherheit: 0, Pace: 91
+  Spieler: Cristiano Ronaldo, Position: Position.LS, Alter: 30
+    Power: Angriffsstaerke: 92, Abwehrstaerke: 52, Passsicherheit: 59, Parriersicherheit: 0, Pace: 71
+  Spieler: Leon Goretzka, Position: Position.ZOM, Alter: 18
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 72, Passsicherheit: 80, Parriersicherheit: 0, Pace: 74
+  Spieler: Jamal Musiala, Position: Position.LM, Alter: 23
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 62, Passsicherheit: 80, Parriersicherheit: 0, Pace: 81
+  Spieler: Luka Modrić, Position: Position.ZDM, Alter: 21
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 78, Passsicherheit: 68, Parriersicherheit: 0, Pace: 63
+
+Gruppe C:
+England (London, UK): 72 Chemie
+  Spieler: Romelu Lukaku, Position: Position.LM, Alter: 29
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 85, Passsicherheit: 55, Parriersicherheit: 0, Pace: 62
+  Spieler: Thibaut Courtois, Position: Position.ZOM, Alter: 35
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 69, Passsicherheit: 65, Parriersicherheit: 0, Pace: 80
+  Spieler: Kai Havertz, Position: Position.RS, Alter: 29
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 73, Passsicherheit: 83, Parriersicherheit: 0, Pace: 61
+  Spieler: Leon Goretzka, Position: Position.RS, Alter: 27
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 76, Passsicherheit: 57, Parriersicherheit: 0, Pace: 92
+  Spieler: Serge Gnabry, Position: Position.ST, Alter: 22
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 53, Passsicherheit: 88, Parriersicherheit: 0, Pace: 64
+  Spieler: Romelu Lukaku, Position: Position.IV, Alter: 32
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 57, Passsicherheit: 82, Parriersicherheit: 0, Pace: 80
+  Spieler: Gianluigi Donnarumma, Position: Position.IV, Alter: 22
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 60, Passsicherheit: 88, Parriersicherheit: 0, Pace: 77
+  Spieler: Kai Havertz, Position: Position.RS, Alter: 35
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 54, Passsicherheit: 65, Parriersicherheit: 0, Pace: 76
+  Spieler: Lionel Messi, Position: Position.RS, Alter: 31
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 58, Passsicherheit: 68, Parriersicherheit: 0, Pace: 92
+  Spieler: Gianluigi Donnarumma, Position: Position.ZOM, Alter: 23
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 83, Passsicherheit: 71, Parriersicherheit: 0, Pace: 69
+  Spieler: Robert Lewandowski, Position: Position.LV, Alter: 25
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 53, Passsicherheit: 62, Parriersicherheit: 0, Pace: 92
+  Spieler: Luka Modrić, Position: Position.IV, Alter: 23
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 70, Passsicherheit: 86, Parriersicherheit: 0, Pace: 61
+  Spieler: Manuel Neuer, Position: Position.LS, Alter: 21
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 74, Passsicherheit: 85, Parriersicherheit: 0, Pace: 90
+  Spieler: Ilkay Gündogan, Position: Position.RM, Alter: 24
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 62, Passsicherheit: 72, Parriersicherheit: 0, Pace: 67
+  Spieler: Jamal Musiala, Position: Position.RS, Alter: 24
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 75, Passsicherheit: 59, Parriersicherheit: 0, Pace: 83
+  Spieler: Memphis Depay, Position: Position.RM, Alter: 26
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 79, Passsicherheit: 89, Parriersicherheit: 0, Pace: 64
+  Spieler: Memphis Depay, Position: Position.RM, Alter: 18
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 56, Passsicherheit: 89, Parriersicherheit: 0, Pace: 65
+  Spieler: Romelu Lukaku, Position: Position.LV, Alter: 35
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 80, Passsicherheit: 82, Parriersicherheit: 0, Pace: 74
+  Spieler: Kai Havertz, Position: Position.RM, Alter: 27
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 70, Passsicherheit: 78, Parriersicherheit: 0, Pace: 82
+  Spieler: Kylian Mbappé, Position: Position.ZOM, Alter: 23
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 54, Passsicherheit: 58, Parriersicherheit: 0, Pace: 91
+  Spieler: Kevin De Bruyne, Position: Position.TW, Alter: 28
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 56, Passsicherheit: 65, Parriersicherheit: 3, Pace: 93
+  Spieler: Robert Lewandowski, Position: Position.RV, Alter: 22
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 65, Passsicherheit: 59, Parriersicherheit: 0, Pace: 64
+  Spieler: Cristiano Ronaldo, Position: Position.ZDM, Alter: 25
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 61, Passsicherheit: 86, Parriersicherheit: 0, Pace: 78
+
+Deutschland (Berlin, DE): 80 Chemie
+  Spieler: Niklas Süle, Position: Position.ZM, Alter: 29
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 65, Passsicherheit: 84, Parriersicherheit: 0, Pace: 76
+  Spieler: Luka Modrić, Position: Position.ST, Alter: 24
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 54, Passsicherheit: 72, Parriersicherheit: 0, Pace: 86
+  Spieler: Timo Werner, Position: Position.LM, Alter: 28
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 76, Passsicherheit: 63, Parriersicherheit: 0, Pace: 83
+  Spieler: Kai Havertz, Position: Position.LV, Alter: 27
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 82, Passsicherheit: 63, Parriersicherheit: 0, Pace: 91
+  Spieler: Antonio Rüdiger, Position: Position.RM, Alter: 22
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 55, Passsicherheit: 85, Parriersicherheit: 0, Pace: 68
+  Spieler: Jamal Musiala, Position: Position.ZOM, Alter: 25
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 79, Passsicherheit: 60, Parriersicherheit: 0, Pace: 94
+  Spieler: Virgil van Dijk, Position: Position.RS, Alter: 24
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 63, Passsicherheit: 85, Parriersicherheit: 0, Pace: 81
+  Spieler: Virgil van Dijk, Position: Position.TW, Alter: 20
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 70, Passsicherheit: 71, Parriersicherheit: 69, Pace: 84
+  Spieler: Cristiano Ronaldo, Position: Position.RS, Alter: 35
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 57, Passsicherheit: 78, Parriersicherheit: 0, Pace: 78
+  Spieler: Zlatan Ibrahimović, Position: Position.TW, Alter: 36
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 70, Passsicherheit: 84, Parriersicherheit: 89, Pace: 69
+  Spieler: Gianluigi Donnarumma, Position: Position.ZDM, Alter: 27
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 63, Passsicherheit: 84, Parriersicherheit: 0, Pace: 91
+  Spieler: Harry Kane, Position: Position.RV, Alter: 26
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 59, Passsicherheit: 58, Parriersicherheit: 0, Pace: 76
+  Spieler: Leon Goretzka, Position: Position.LV, Alter: 29
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 74, Passsicherheit: 85, Parriersicherheit: 0, Pace: 81
+  Spieler: Kai Havertz, Position: Position.RV, Alter: 35
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 51, Passsicherheit: 88, Parriersicherheit: 0, Pace: 73
+  Spieler: Joshua Kimmich, Position: Position.RV, Alter: 21
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 58, Passsicherheit: 69, Parriersicherheit: 0, Pace: 71
+  Spieler: Virgil van Dijk, Position: Position.RM, Alter: 35
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 65, Passsicherheit: 73, Parriersicherheit: 0, Pace: 80
+  Spieler: Kai Havertz, Position: Position.RV, Alter: 20
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 71, Passsicherheit: 76, Parriersicherheit: 0, Pace: 88
+  Spieler: Serge Gnabry, Position: Position.ZM, Alter: 33
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 59, Passsicherheit: 83, Parriersicherheit: 0, Pace: 61
+
+Niederlande (Amsterdam, NL): 61 Chemie
+  Spieler: Gianluigi Donnarumma, Position: Position.LS, Alter: 34
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 59, Passsicherheit: 63, Parriersicherheit: 0, Pace: 69
+  Spieler: Zlatan Ibrahimović, Position: Position.ST, Alter: 36
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 68, Passsicherheit: 67, Parriersicherheit: 0, Pace: 87
+  Spieler: Luka Modrić, Position: Position.IV, Alter: 34
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 74, Passsicherheit: 80, Parriersicherheit: 0, Pace: 78
+  Spieler: Antonio Rüdiger, Position: Position.IV, Alter: 27
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 58, Passsicherheit: 70, Parriersicherheit: 0, Pace: 69
+  Spieler: Kai Havertz, Position: Position.LS, Alter: 29
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 63, Passsicherheit: 67, Parriersicherheit: 0, Pace: 81
+  Spieler: Leon Goretzka, Position: Position.ZM, Alter: 18
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 67, Passsicherheit: 67, Parriersicherheit: 0, Pace: 67
+  Spieler: Cristiano Ronaldo, Position: Position.LS, Alter: 20
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 68, Passsicherheit: 55, Parriersicherheit: 0, Pace: 87
+  Spieler: Serge Gnabry, Position: Position.LV, Alter: 27
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 84, Passsicherheit: 57, Parriersicherheit: 0, Pace: 63
+  Spieler: Leroy Sané, Position: Position.ZDM, Alter: 25
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 55, Passsicherheit: 89, Parriersicherheit: 0, Pace: 72
+  Spieler: Robert Lewandowski, Position: Position.RS, Alter: 19
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 75, Passsicherheit: 66, Parriersicherheit: 0, Pace: 91
+  Spieler: Kylian Mbappé, Position: Position.LS, Alter: 25
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 72, Passsicherheit: 64, Parriersicherheit: 0, Pace: 64
+  Spieler: Eden Hazard, Position: Position.TW, Alter: 26
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 70, Passsicherheit: 89, Parriersicherheit: 22, Pace: 84
+  Spieler: Eden Hazard, Position: Position.ZOM, Alter: 26
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 51, Passsicherheit: 56, Parriersicherheit: 0, Pace: 91
+  Spieler: Jamal Musiala, Position: Position.ZOM, Alter: 35
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 84, Passsicherheit: 57, Parriersicherheit: 0, Pace: 86
+  Spieler: Ilkay Gündogan, Position: Position.LV, Alter: 27
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 70, Passsicherheit: 56, Parriersicherheit: 0, Pace: 79
+  Spieler: Zlatan Ibrahimović, Position: Position.IV, Alter: 29
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 55, Passsicherheit: 55, Parriersicherheit: 0, Pace: 93
+  Spieler: Leon Goretzka, Position: Position.ZDM, Alter: 18
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 83, Passsicherheit: 90, Parriersicherheit: 0, Pace: 61
+  Spieler: Kevin De Bruyne, Position: Position.ST, Alter: 21
+    Power: Angriffsstaerke: 93, Abwehrstaerke: 67, Passsicherheit: 76, Parriersicherheit: 0, Pace: 80
+  Spieler: Romelu Lukaku, Position: Position.ZM, Alter: 19
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 62, Passsicherheit: 58, Parriersicherheit: 0, Pace: 64
+  Spieler: Manuel Neuer, Position: Position.ZOM, Alter: 23
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 50, Passsicherheit: 66, Parriersicherheit: 0, Pace: 86
+  Spieler: Lionel Messi, Position: Position.RS, Alter: 31
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 85, Passsicherheit: 55, Parriersicherheit: 0, Pace: 63
+  Spieler: Zlatan Ibrahimović, Position: Position.IV, Alter: 21
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 75, Passsicherheit: 66, Parriersicherheit: 0, Pace: 66
+  Spieler: Neymar, Position: Position.LV, Alter: 19
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 62, Passsicherheit: 75, Parriersicherheit: 0, Pace: 60
+
+Ungarn (Budapest, HU): 95 Chemie
+  Spieler: Robert Lewandowski, Position: Position.TW, Alter: 21
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 79, Passsicherheit: 61, Parriersicherheit: 68, Pace: 75
+  Spieler: Antonio Rüdiger, Position: Position.RV, Alter: 18
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 57, Passsicherheit: 72, Parriersicherheit: 0, Pace: 77
+  Spieler: Eden Hazard, Position: Position.RM, Alter: 27
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 77, Passsicherheit: 69, Parriersicherheit: 0, Pace: 69
+  Spieler: Jamal Musiala, Position: Position.LS, Alter: 34
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 52, Passsicherheit: 85, Parriersicherheit: 0, Pace: 92
+  Spieler: Robert Lewandowski, Position: Position.ZM, Alter: 28
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 63, Passsicherheit: 57, Parriersicherheit: 0, Pace: 91
+  Spieler: Lionel Messi, Position: Position.ST, Alter: 33
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 69, Passsicherheit: 78, Parriersicherheit: 0, Pace: 69
+  Spieler: Robert Lewandowski, Position: Position.IV, Alter: 18
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 56, Passsicherheit: 85, Parriersicherheit: 0, Pace: 73
+  Spieler: Kevin De Bruyne, Position: Position.RM, Alter: 34
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 53, Passsicherheit: 88, Parriersicherheit: 0, Pace: 94
+  Spieler: Manuel Neuer, Position: Position.ZDM, Alter: 35
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 70, Passsicherheit: 61, Parriersicherheit: 0, Pace: 64
+  Spieler: Luka Modrić, Position: Position.ZM, Alter: 22
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 57, Passsicherheit: 58, Parriersicherheit: 0, Pace: 76
+  Spieler: Zlatan Ibrahimović, Position: Position.ZM, Alter: 21
+    Power: Angriffsstaerke: 73, Abwehrstaerke: 52, Passsicherheit: 90, Parriersicherheit: 0, Pace: 63
+  Spieler: Romelu Lukaku, Position: Position.TW, Alter: 32
+    Power: Angriffsstaerke: 80, Abwehrstaerke: 52, Passsicherheit: 66, Parriersicherheit: 10, Pace: 95
+  Spieler: Jamal Musiala, Position: Position.ZM, Alter: 21
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 71, Passsicherheit: 57, Parriersicherheit: 0, Pace: 91
+  Spieler: Thibaut Courtois, Position: Position.ZOM, Alter: 23
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 85, Passsicherheit: 70, Parriersicherheit: 0, Pace: 67
+  Spieler: Kevin De Bruyne, Position: Position.RV, Alter: 19
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 84, Passsicherheit: 64, Parriersicherheit: 0, Pace: 72
+  Spieler: Kai Havertz, Position: Position.LM, Alter: 25
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 64, Passsicherheit: 55, Parriersicherheit: 0, Pace: 88
+  Spieler: Manuel Neuer, Position: Position.ST, Alter: 27
+    Power: Angriffsstaerke: 87, Abwehrstaerke: 55, Passsicherheit: 89, Parriersicherheit: 0, Pace: 69
+  Spieler: Ilkay Gündogan, Position: Position.LM, Alter: 31
+    Power: Angriffsstaerke: 86, Abwehrstaerke: 72, Passsicherheit: 85, Parriersicherheit: 0, Pace: 78
+
+Gruppe D:
+Belgien (Brussels, BE): 57 Chemie
+  Spieler: Luka Modrić, Position: Position.TW, Alter: 20
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 57, Passsicherheit: 85, Parriersicherheit: 17, Pace: 86
+  Spieler: Leon Goretzka, Position: Position.ZDM, Alter: 24
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 79, Passsicherheit: 82, Parriersicherheit: 0, Pace: 84
+  Spieler: Leon Goretzka, Position: Position.RS, Alter: 25
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 68, Passsicherheit: 59, Parriersicherheit: 0, Pace: 82
+  Spieler: Lionel Messi, Position: Position.RV, Alter: 28
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 85, Passsicherheit: 69, Parriersicherheit: 0, Pace: 89
+  Spieler: Leon Goretzka, Position: Position.RS, Alter: 23
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 70, Passsicherheit: 73, Parriersicherheit: 0, Pace: 90
+  Spieler: Memphis Depay, Position: Position.RM, Alter: 26
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 66, Passsicherheit: 89, Parriersicherheit: 0, Pace: 90
+  Spieler: Antonio Rüdiger, Position: Position.TW, Alter: 33
+    Power: Angriffsstaerke: 86, Abwehrstaerke: 55, Passsicherheit: 82, Parriersicherheit: 53, Pace: 83
+  Spieler: Harry Kane, Position: Position.RM, Alter: 25
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 77, Passsicherheit: 74, Parriersicherheit: 0, Pace: 63
+  Spieler: Thomas Müller, Position: Position.ZM, Alter: 23
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 52, Passsicherheit: 84, Parriersicherheit: 0, Pace: 67
+  Spieler: Luka Modrić, Position: Position.ST, Alter: 20
+    Power: Angriffsstaerke: 92, Abwehrstaerke: 76, Passsicherheit: 71, Parriersicherheit: 0, Pace: 94
+  Spieler: Niklas Süle, Position: Position.IV, Alter: 35
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 77, Passsicherheit: 83, Parriersicherheit: 0, Pace: 91
+  Spieler: Thomas Müller, Position: Position.ZDM, Alter: 27
+    Power: Angriffsstaerke: 64, Abwehrstaerke: 81, Passsicherheit: 82, Parriersicherheit: 0, Pace: 87
+  Spieler: Jamal Musiala, Position: Position.TW, Alter: 26
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 72, Passsicherheit: 68, Parriersicherheit: 25, Pace: 62
+  Spieler: Manuel Neuer, Position: Position.IV, Alter: 32
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 78, Passsicherheit: 79, Parriersicherheit: 0, Pace: 66
+  Spieler: Vinícius Júnior, Position: Position.RM, Alter: 24
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 77, Passsicherheit: 66, Parriersicherheit: 0, Pace: 64
+  Spieler: Thibaut Courtois, Position: Position.IV, Alter: 26
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 54, Passsicherheit: 87, Parriersicherheit: 0, Pace: 83
+  Spieler: Joshua Kimmich, Position: Position.RM, Alter: 20
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 51, Passsicherheit: 73, Parriersicherheit: 0, Pace: 61
+  Spieler: Serge Gnabry, Position: Position.ST, Alter: 35
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 79, Passsicherheit: 80, Parriersicherheit: 0, Pace: 69
+  Spieler: Lionel Messi, Position: Position.IV, Alter: 31
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 80, Passsicherheit: 86, Parriersicherheit: 0, Pace: 84
+  Spieler: Jamal Musiala, Position: Position.RV, Alter: 24
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 62, Passsicherheit: 70, Parriersicherheit: 0, Pace: 72
+  Spieler: Thibaut Courtois, Position: Position.RV, Alter: 26
+    Power: Angriffsstaerke: 75, Abwehrstaerke: 62, Passsicherheit: 64, Parriersicherheit: 0, Pace: 66
+
+Italien (Rome, IT): 79 Chemie
+  Spieler: Thibaut Courtois, Position: Position.TW, Alter: 33
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 77, Passsicherheit: 57, Parriersicherheit: 52, Pace: 77
+  Spieler: Eden Hazard, Position: Position.TW, Alter: 31
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 74, Passsicherheit: 73, Parriersicherheit: 47, Pace: 88
+  Spieler: Kevin De Bruyne, Position: Position.RS, Alter: 28
+    Power: Angriffsstaerke: 89, Abwehrstaerke: 63, Passsicherheit: 79, Parriersicherheit: 0, Pace: 69
+  Spieler: Eden Hazard, Position: Position.ZM, Alter: 28
+    Power: Angriffsstaerke: 91, Abwehrstaerke: 75, Passsicherheit: 81, Parriersicherheit: 0, Pace: 63
+  Spieler: Serge Gnabry, Position: Position.RV, Alter: 31
+    Power: Angriffsstaerke: 66, Abwehrstaerke: 72, Passsicherheit: 64, Parriersicherheit: 0, Pace: 60
+  Spieler: Timo Werner, Position: Position.IV, Alter: 34
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 75, Passsicherheit: 77, Parriersicherheit: 0, Pace: 80
+  Spieler: Leon Goretzka, Position: Position.ZOM, Alter: 18
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 55, Passsicherheit: 80, Parriersicherheit: 0, Pace: 92
+  Spieler: Cristiano Ronaldo, Position: Position.RS, Alter: 29
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 52, Passsicherheit: 87, Parriersicherheit: 0, Pace: 88
+  Spieler: Serge Gnabry, Position: Position.LV, Alter: 27
+    Power: Angriffsstaerke: 73, Abwehrstaerke: 73, Passsicherheit: 61, Parriersicherheit: 0, Pace: 82
+  Spieler: Zlatan Ibrahimović, Position: Position.RS, Alter: 32
+    Power: Angriffsstaerke: 93, Abwehrstaerke: 78, Passsicherheit: 78, Parriersicherheit: 0, Pace: 91
+  Spieler: Leon Goretzka, Position: Position.TW, Alter: 18
+    Power: Angriffsstaerke: 86, Abwehrstaerke: 84, Passsicherheit: 83, Parriersicherheit: 90, Pace: 86
+  Spieler: Romelu Lukaku, Position: Position.TW, Alter: 21
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 77, Passsicherheit: 73, Parriersicherheit: 88, Pace: 60
+  Spieler: Leroy Sané, Position: Position.IV, Alter: 23
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 61, Passsicherheit: 65, Parriersicherheit: 0, Pace: 75
+  Spieler: Thibaut Courtois, Position: Position.ZOM, Alter: 27
+    Power: Angriffsstaerke: 62, Abwehrstaerke: 77, Passsicherheit: 60, Parriersicherheit: 0, Pace: 94
+  Spieler: Ilkay Gündogan, Position: Position.LS, Alter: 30
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 63, Passsicherheit: 63, Parriersicherheit: 0, Pace: 66
+  Spieler: Memphis Depay, Position: Position.ZM, Alter: 35
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 74, Passsicherheit: 76, Parriersicherheit: 0, Pace: 85
+  Spieler: Jamal Musiala, Position: Position.RS, Alter: 25
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 56, Passsicherheit: 55, Parriersicherheit: 0, Pace: 65
+  Spieler: Leroy Sané, Position: Position.ST, Alter: 26
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 60, Passsicherheit: 60, Parriersicherheit: 0, Pace: 61
+  Spieler: Harry Kane, Position: Position.ZM, Alter: 32
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 60, Passsicherheit: 90, Parriersicherheit: 0, Pace: 85
+  Spieler: Cristiano Ronaldo, Position: Position.RV, Alter: 26
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 52, Passsicherheit: 77, Parriersicherheit: 0, Pace: 66
+  Spieler: Memphis Depay, Position: Position.ZDM, Alter: 19
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 72, Passsicherheit: 63, Parriersicherheit: 0, Pace: 66
+  Spieler: Manuel Neuer, Position: Position.LV, Alter: 32
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 55, Passsicherheit: 75, Parriersicherheit: 0, Pace: 73
+  Spieler: Virgil van Dijk, Position: Position.ZOM, Alter: 30
+    Power: Angriffsstaerke: 95, Abwehrstaerke: 55, Passsicherheit: 61, Parriersicherheit: 0, Pace: 77
+
+Tschechien (Prague, CZ): 83 Chemie
+  Spieler: Timo Werner, Position: Position.RS, Alter: 34
+    Power: Angriffsstaerke: 81, Abwehrstaerke: 76, Passsicherheit: 74, Parriersicherheit: 0, Pace: 82
+  Spieler: Romelu Lukaku, Position: Position.ST, Alter: 22
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 78, Passsicherheit: 70, Parriersicherheit: 0, Pace: 95
+  Spieler: Jamal Musiala, Position: Position.ST, Alter: 31
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 62, Passsicherheit: 89, Parriersicherheit: 0, Pace: 95
+  Spieler: Kylian Mbappé, Position: Position.ZM, Alter: 30
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 73, Passsicherheit: 56, Parriersicherheit: 0, Pace: 66
+  Spieler: Gianluigi Donnarumma, Position: Position.LS, Alter: 36
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 65, Passsicherheit: 58, Parriersicherheit: 0, Pace: 68
+  Spieler: Romelu Lukaku, Position: Position.TW, Alter: 29
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 63, Passsicherheit: 72, Parriersicherheit: 67, Pace: 90
+  Spieler: Joshua Kimmich, Position: Position.LS, Alter: 33
+    Power: Angriffsstaerke: 74, Abwehrstaerke: 76, Passsicherheit: 87, Parriersicherheit: 0, Pace: 64
+  Spieler: Antonio Rüdiger, Position: Position.LS, Alter: 29
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 65, Passsicherheit: 65, Parriersicherheit: 0, Pace: 84
+  Spieler: Romelu Lukaku, Position: Position.LM, Alter: 28
+    Power: Angriffsstaerke: 63, Abwehrstaerke: 68, Passsicherheit: 75, Parriersicherheit: 0, Pace: 76
+  Spieler: Neymar, Position: Position.LS, Alter: 27
+    Power: Angriffsstaerke: 69, Abwehrstaerke: 60, Passsicherheit: 80, Parriersicherheit: 0, Pace: 77
+  Spieler: Serge Gnabry, Position: Position.ZOM, Alter: 36
+    Power: Angriffsstaerke: 79, Abwehrstaerke: 53, Passsicherheit: 63, Parriersicherheit: 0, Pace: 80
+  Spieler: Lionel Messi, Position: Position.RV, Alter: 28
+    Power: Angriffsstaerke: 60, Abwehrstaerke: 59, Passsicherheit: 79, Parriersicherheit: 0, Pace: 81
+  Spieler: Kevin De Bruyne, Position: Position.ZM, Alter: 23
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 59, Passsicherheit: 68, Parriersicherheit: 0, Pace: 83
+  Spieler: Eden Hazard, Position: Position.ST, Alter: 18
+    Power: Angriffsstaerke: 85, Abwehrstaerke: 60, Passsicherheit: 64, Parriersicherheit: 0, Pace: 90
+  Spieler: Virgil van Dijk, Position: Position.ZDM, Alter: 27
+    Power: Angriffsstaerke: 72, Abwehrstaerke: 77, Passsicherheit: 86, Parriersicherheit: 0, Pace: 77
+  Spieler: Manuel Neuer, Position: Position.LV, Alter: 22
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 62, Passsicherheit: 90, Parriersicherheit: 0, Pace: 61
+  Spieler: Leon Goretzka, Position: Position.LV, Alter: 33
+    Power: Angriffsstaerke: 70, Abwehrstaerke: 57, Passsicherheit: 87, Parriersicherheit: 0, Pace: 77
+  Spieler: Serge Gnabry, Position: Position.TW, Alter: 28
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 61, Passsicherheit: 90, Parriersicherheit: 41, Pace: 85
+  Spieler: Virgil van Dijk, Position: Position.TW, Alter: 27
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 76, Passsicherheit: 86, Parriersicherheit: 74, Pace: 88
+  Spieler: Romelu Lukaku, Position: Position.RS, Alter: 18
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 50, Passsicherheit: 85, Parriersicherheit: 0, Pace: 60
+  Spieler: Lionel Messi, Position: Position.ZM, Alter: 35
+    Power: Angriffsstaerke: 90, Abwehrstaerke: 81, Passsicherheit: 68, Parriersicherheit: 0, Pace: 79
+
+Portugal (Lisbon, PT): 89 Chemie
+  Spieler: Joshua Kimmich, Position: Position.LV, Alter: 29
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 50, Passsicherheit: 74, Parriersicherheit: 0, Pace: 85
+  Spieler: Eden Hazard, Position: Position.LS, Alter: 33
+    Power: Angriffsstaerke: 71, Abwehrstaerke: 55, Passsicherheit: 63, Parriersicherheit: 0, Pace: 63
+  Spieler: Lionel Messi, Position: Position.RS, Alter: 20
+    Power: Angriffsstaerke: 68, Abwehrstaerke: 73, Passsicherheit: 85, Parriersicherheit: 0, Pace: 62
+  Spieler: Neymar, Position: Position.RV, Alter: 32
+    Power: Angriffsstaerke: 93, Abwehrstaerke: 68, Passsicherheit: 78, Parriersicherheit: 0, Pace: 70
+  Spieler: Antonio Rüdiger, Position: Position.LV, Alter: 32
+    Power: Angriffsstaerke: 88, Abwehrstaerke: 68, Passsicherheit: 60, Parriersicherheit: 0, Pace: 84
+  Spieler: Leon Goretzka, Position: Position.ZM, Alter: 30
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 52, Passsicherheit: 55, Parriersicherheit: 0, Pace: 72
+  Spieler: Cristiano Ronaldo, Position: Position.RM, Alter: 20
+    Power: Angriffsstaerke: 84, Abwehrstaerke: 83, Passsicherheit: 70, Parriersicherheit: 0, Pace: 87
+  Spieler: Kai Havertz, Position: Position.LV, Alter: 19
+    Power: Angriffsstaerke: 78, Abwehrstaerke: 50, Passsicherheit: 78, Parriersicherheit: 0, Pace: 66
+  Spieler: Thibaut Courtois, Position: Position.ST, Alter: 33
+    Power: Angriffsstaerke: 67, Abwehrstaerke: 73, Passsicherheit: 61, Parriersicherheit: 0, Pace: 60
+  Spieler: Kevin De Bruyne, Position: Position.RV, Alter: 33
+    Power: Angriffsstaerke: 77, Abwehrstaerke: 50, Passsicherheit: 78, Parriersicherheit: 0, Pace: 73
+  Spieler: Harry Kane, Position: Position.IV, Alter: 29
+    Power: Angriffsstaerke: 70, Abwehrstaerke: 53, Passsicherheit: 70, Parriersicherheit: 0, Pace: 69
+  Spieler: Jamal Musiala, Position: Position.RV, Alter: 33
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 84, Passsicherheit: 90, Parriersicherheit: 0, Pace: 61
+  Spieler: Vinícius Júnior, Position: Position.LM, Alter: 35
+    Power: Angriffsstaerke: 94, Abwehrstaerke: 53, Passsicherheit: 56, Parriersicherheit: 0, Pace: 92
+  Spieler: Kylian Mbappé, Position: Position.LV, Alter: 26
+    Power: Angriffsstaerke: 83, Abwehrstaerke: 68, Passsicherheit: 58, Parriersicherheit: 0, Pace: 77
+  Spieler: Vinícius Júnior, Position: Position.ST, Alter: 20
+    Power: Angriffsstaerke: 61, Abwehrstaerke: 83, Passsicherheit: 76, Parriersicherheit: 0, Pace: 65
+  Spieler: Kylian Mbappé, Position: Position.IV, Alter: 32
+    Power: Angriffsstaerke: 65, Abwehrstaerke: 51, Passsicherheit: 63, Parriersicherheit: 0, Pace: 86
+  Spieler: Eden Hazard, Position: Position.RM, Alter: 22
+    Power: Angriffsstaerke: 76, Abwehrstaerke: 78, Passsicherheit: 90, Parriersicherheit: 0, Pace: 90
+  Spieler: Kylian Mbappé, Position: Position.LV, Alter: 27
+    Power: Angriffsstaerke: 82, Abwehrstaerke: 85, Passsicherheit: 65, Parriersicherheit: 0, Pace: 70
+
+Gruppensieger:
+Frankreich hat sich für die K.O.-Phase qualifiziert.
+Deutschland hat sich für die K.O.-Phase qualifiziert.
+Dänemark hat sich für die K.O.-Phase qualifiziert.
+Spanien hat sich für die K.O.-Phase qualifiziert.
+Deutschland hat sich für die K.O.-Phase qualifiziert.
+Niederlande hat sich für die K.O.-Phase qualifiziert.
+Tschechien hat sich für die K.O.-Phase qualifiziert.
+Belgien hat sich für die K.O.-Phase qualifiziert.
+
+K.O.-Phase Ergebnisse:
+Tschechien in der K.O.-Phase.

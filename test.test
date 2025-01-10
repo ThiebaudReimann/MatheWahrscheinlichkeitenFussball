@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "manschaften": {
+      "type": "array",
+      "description": "Liste aller Mannschaften mit deren Eigenschaften",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name der Mannschaft"
+          },
+          "location": {
+            "type": "string",
+            "description": "Standort der Mannschaft"
+          },
+          "chemistry": {
+            "type": "integer",
+            "minimum": 50,
+            "maximum": 99,
+            "description": "Chemiewert der Mannschaft"
+          },
+          "spieler": {
+            "type": "array",
+            "description": "Liste der Spieler der Mannschaft",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Name des Spielers"
+                },
+                "alter": {
+                  "type": "integer",
+                  "minimum": 18,
+                  "maximum": 36,
+                  "description": "Alter des Spielers"
+                },
+                "position": {
+                  "type": "string",
+                  "enum": ["IV", "RV", "LV", "ZDM", "ZOM", "ZM", "LM", "RM", "TW", "ST", "RS", "LS"],
+                  "description": "Position des Spielers"
+                }
+              },
+              "required": ["name", "alter", "position"]
+            }
+          }
+        },
+        "required": ["name", "location", "chemistry", "spieler"]
+      }
+    },
+    "gruppenphase": {
+      "type": "object",
+      "properties": {
+        "gruppen": {
+          "type": "array",
+          "description": "Liste der Gruppen mit den Mannschaften und deren Ergebnissen",
+          "items": {
+            "type": "object",
+            "properties": {
+              "gruppeName": {
+                "type": "string",
+                "description": "Bezeichner der Gruppe (z.B. A, B, C, etc.)"
+              },
+              "manschaften": {
+                "type": "array",
+                "description": "Liste der Mannschaften in dieser Gruppe",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "description": "Name der Mannschaft"
+                    },
+                    "punkte": {
+                      "type": "integer",
+                      "description": "Punkte der Mannschaft in dieser Gruppe"
+                    },
+                    "toreErzielt": {
+                      "type": "integer",
+                      "description": "Anzahl der Tore, die von der Mannschaft erzielt wurden"
+                    },
+                    "toreErhalten": {
+                      "type": "integer",
+                      "description": "Anzahl der Tore, die der Mannschaft erzielt wurden"
+                    }
+                  },
+                  "required": ["name", "punkte", "toreErzielt", "toreErhalten"]
+                }
+              },
+              "spiele": {
+                "type": "array",
+                "description": "Liste der Spiele innerhalb der Gruppe",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "team1": {
+                      "type": "string",
+                      "description": "Name des ersten Teams"
+                    },
+                    "team2": {
+                      "type": "string",
+                      "description": "Name des zweiten Teams"
+                    },
+                    "toreTeam1": {
+                      "type": "integer",
+                      "description": "Tore des ersten Teams"
+                    },
+                    "toreTeam2": {
+                      "type": "integer",
+                      "description": "Tore des zweiten Teams"
+                    },
+                    "sieger": {
+                      "type": "string",
+                      "description": "Name des siegreichen Teams"
+                    }
+                  },
+                  "required": ["team1", "team2", "toreTeam1", "toreTeam2", "sieger"]
+                }
+              }
+            },
+            "required": ["gruppeName", "manschaften", "spiele"]
+          }
+        }
+      }
+    },
+    "koPhase": {
+      "type": "object",
+      "properties": {
+        "runden": {
+          "type": "array",
+          "description": "Liste der KO-Phasenrunden mit den entsprechenden Spielen und Ergebnissen",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rundeName": {
+                "type": "string",
+                "description": "Bezeichner der Runde (z.B. Viertelfinale, Halbfinale, Finale)"
+              },
+              "spiele": {
+                "type": "array",
+                "description": "Liste der Spiele in dieser Runde",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "team1": {
+                      "type": "string",
+                      "description": "Name des ersten Teams"
+                    },
+                    "team2": {
+                      "type": "string",
+                      "description": "Name des zweiten Teams"
+                    },
+                    "toreTeam1": {
+                      "type": "integer",
+                      "description": "Tore des ersten Teams"
+                    },
+                    "toreTeam2": {
+                      "type": "integer",
+                      "description": "Tore des zweiten Teams"
+                    },
+                    "sieger": {
+                      "type": "string",
+                      "description": "Name des siegreichen Teams"
+                    }
+                  },
+                  "required": ["team1", "team2", "toreTeam1", "toreTeam2", "sieger"]
+                }
+              }
+            },
+            "required": ["rundeName", "spiele"]
+          }
+        }
+      }
+    }
+  },
+  "required": ["manschaften", "gruppenphase", "koPhase"]
+}

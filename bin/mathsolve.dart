@@ -20,4 +20,5 @@ void main(List<String> arguments) {
   // Aufrufen der Funktion `runSequence` mit den erstellten Optionen.
   // Diese Funktion führt die Hauptlogik des Spiels aus.
   runSequence(options);
+  //second(options);
 }
